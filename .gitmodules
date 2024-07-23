@@ -1,0 +1,3 @@
+[submodule "modules/I24PostprocessingLite"]
+	path = modules/I24PostprocessingLite
+	url = git@github.com:I24-MOTION/I24-postprocessing-lite.git
